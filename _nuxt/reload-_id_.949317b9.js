@@ -1,0 +1,1 @@
+import{h as a,e as o,b as t,t as r,u as s,o as l}from"./entry.2bdba3b1.js";const _={__name:"reload-[id]",setup(n){const e=a("reload",()=>0);return o(()=>{e.value++}),(d,u)=>(l(),t("div",null," Child reloaded: "+r(s(e)),1))}};export{_ as default};
