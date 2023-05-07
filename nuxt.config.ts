@@ -3,11 +3,7 @@ export default defineNuxtConfig({
   modules: [
     '@nuxt/ui'
   ],
-  // app: {
-  //   head: {
-  //     script: {
-        
-  //     }
-  //   }
-  // }
+  app: {
+    baseURL: '/nuxt-test-1/'
+  }
 })
